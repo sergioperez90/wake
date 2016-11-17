@@ -6,4 +6,4 @@
 - Descomprimir el ZIP e insertar la carpeta en C:/ y renombrar la carpeta
 - Ejecutar el .bat para inicializar el servidor
 - Introducir en la url del navegador http://localhost:3030
-- Ya tendremos el servirod Apache Jena funcionando
+- Ya tendremos el servidor Apache Jena funcionando
