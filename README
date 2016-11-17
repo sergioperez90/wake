@@ -2,8 +2,8 @@
 *****************INSTALACIÓN APACHE JENA*******************
 ***********************************************************
 
-- Descargar Apache Jena Fuseki desde la web oficial
-- Descomprimir el ZIP e insertar la carpeta en C:/ y renombrar la carpeta
+- Descargar el siguiente repositorio
+- Copiar la carpeta jena en la raiz C:/
 - Ejecutar el .bat para inicializar el servidor
 - Introducir en la url del navegador http://localhost:3030
 - Ya tendremos el servidor Apache Jena funcionando
@@ -11,7 +11,7 @@
 ======== Problemas que pueden surgir ========
 
 - Si surge algun error al iniciar el servidor, añadir el PATH a 
-las variables de entorno: C:\{CARPETA_JENA}\bin
+las variables de entorno: C:\jena\bin
 
 ***********************************************************
 ****************VISUALIZACIÓN DE LOS DATASETS**************
