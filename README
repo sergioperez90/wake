@@ -8,7 +8,7 @@
 - Introducir en la url del navegador http://localhost:3030
 - Ya tendremos el servidor Apache Jena funcionando
 
-======== Problemas que pueden surgir ========.
+======== Problemas que pueden surgir ========
 
 - Si surge algun error al iniciar el servidor, añadir el PATH a 
 las variables de entorno: C:\{CARPETA_JENA}\bin
