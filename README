@@ -10,16 +10,17 @@
 
 ======== Problemas que pueden surgir ========
 
-- Si surge algun error al iniciar el servidor, añadir el PATH a 
-las variables de entorno: C:\jena\bin
+- Si surge algun error al iniciar el servidor, añadir el 
+  PATH a las variables de entorno: C:\jena\bin
 
 ***********************************************************
 ****************VISUALIZACIÓN DE LOS DATASETS**************
 ***********************************************************
 
-- Para poder visualizar los datos de ejemplo de un dataset hay que dirigirse
-a la pestaña Dataset.
-- Seleccionar en el desplegable el Dataset a visualizar en este caso "libros"
+- Para poder visualizar los datos de ejemplo de un dataset 
+  hay que dirigirse a la pestaña Dataset.
+- Seleccionar en el desplegable el Dataset a visualizar en 
+  este caso "libros"
 - Hacer click en la pestaña Info
 - Seleccionar http://localhost:3030/libros/get
 
@@ -28,7 +29,9 @@ a la pestaña Dataset.
 ***************REALIZAR UNA QUERY A UN DATASET*************
 ***********************************************************
 
-- Para realizar una QUERY a un Dataset nos dirigimos a la pestaña dataset
-- Seleccionar en el desplegable el Dataset a visualizar en este caso "libros"
+- Para realizar una QUERY a un Dataset nos dirigimos a la 
+  pestaña dataset
+- Seleccionar en el desplegable el Dataset a visualizar en 
+  este caso "libros"
 - En el cajon inferior insertar la query a realizar
 - Más abajo podremos ver el resultado de la query
