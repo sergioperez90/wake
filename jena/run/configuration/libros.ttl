@@ -18,4 +18,4 @@
 
 :tdb_dataset_readwrite
         a             tdb:DatasetTDB ;
-        tdb:location  "C:\\FUSEKI\\run/databases/libros" .
+        tdb:location  "C:\\Users\\Sergio\\Documents\\GitHub\\wake\\jena\\run/databases/libros" .

@@ -1,0 +1,7 @@
+***********************************************************
+*****************INSTALACIÓN APACHE JENA*******************
+***********************************************************
+
+- Descargar Apache Jena Fuseki desde la web oficial
+- Descomprimir el ZIP e insertar la carpeta en C:/
+- Ejecutar el .bat para inicializar el servidor
