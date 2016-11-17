@@ -10,7 +10,7 @@
 
 
 ***********************************************************
-********VISUALIZACIÓN DE LOS DATASETS DE EJEMPLO***********
+****************VISUALIZACIÓN DE LOS DATASETS**************
 ***********************************************************
 
 - Para poder visualizar los datos de ejemplo de un dataset hay que dirigirse
@@ -20,3 +20,11 @@ a la pestaña Dataset.
 - Seleccionar http://localhost:3030/libros/get
 
 
+***********************************************************
+***************REALIZAR UNA QUERY A UN DATASET*************
+***********************************************************
+
+- Para realizar una QUERY a un Dataset nos dirigimos a la pestaña dataset
+- Seleccionar en el desplegable el Dataset a visualizar en este caso "libros"
+- En el cajon inferior insertar la query a realizar
+- Más abajo podremos ver el resultado de la query
