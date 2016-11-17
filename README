@@ -7,3 +7,16 @@
 - Ejecutar el .bat para inicializar el servidor
 - Introducir en la url del navegador http://localhost:3030
 - Ya tendremos el servidor Apache Jena funcionando
+
+
+***********************************************************
+********VISUALIZACIÓN DE LOS DATASETS DE EJEMPLO***********
+***********************************************************
+
+- Para poder visualizar los datos de ejemplo de un dataset hay que dirigirse
+a la pestaña Dataset.
+- Seleccionar en el desplegable el Dataset a visualizar en este caso "libros"
+- Hacer click en la pestaña Info
+- Seleccionar http://localhost:3030/libros/get
+
+
